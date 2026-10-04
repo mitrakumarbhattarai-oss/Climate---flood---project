@@ -1,2 +1,2 @@
 # Climate-flood project
-Environmental data science project examining climate change and flash-flood activity across U.S. counties. 
+This project examines whether U.S. counties experiencing changes in precipitation are also experiencing changes in flood activity. The analysis uses NOAA county-level precipitation data and NOAA Storm Events Flood and Flash Flood records. Exploratory data analysis will be used to examine spatial and temporal patterns and prepare the data for later machine-learning analysis.
